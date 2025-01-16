@@ -80,7 +80,7 @@ ToxaDex bridges the gap between blockchain technology and artificial intelligenc
 
 ## 🔒 License
 
-This SDK is open-source and available under the [MIT License](./LICENSE).
+This SDK is open-source and available under the [Apache License 2.0](./LICENSE).
 
 ---
 
